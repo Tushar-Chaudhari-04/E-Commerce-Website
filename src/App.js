@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div>
       <Register/>
-       <Login/>
+      <Login/>
       <Home/> 
       <ProductList/>
       <SpecificProduct/>
