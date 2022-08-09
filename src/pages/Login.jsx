@@ -60,7 +60,7 @@ const Login = () => {
   return (
     <Container>
         <Wrapper>
-        <Title>Sign Up</Title>
+        <Title>Sign In</Title>
             <Form>
                 <Input placeholder='UserName'/>
                 <Input placeholder='Password'/>
